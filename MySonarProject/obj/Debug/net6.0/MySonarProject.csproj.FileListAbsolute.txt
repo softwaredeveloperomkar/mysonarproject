@@ -1,0 +1,15 @@
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\bin\Debug\net6.0\MySonarProject.exe
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\bin\Debug\net6.0\MySonarProject.deps.json
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\bin\Debug\net6.0\MySonarProject.runtimeconfig.json
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\bin\Debug\net6.0\MySonarProject.dll
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\bin\Debug\net6.0\MySonarProject.pdb
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.csproj.AssemblyReference.cache
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.AssemblyInfoInputs.cache
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.AssemblyInfo.cs
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.csproj.CoreCompileInputs.cache
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.dll
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\refint\MySonarProject.dll
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.pdb
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\MySonarProject.genruntimeconfig.cache
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\obj\Debug\net6.0\ref\MySonarProject.dll

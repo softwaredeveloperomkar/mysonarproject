@@ -1,0 +1,3 @@
+﻿C:\Users\omkar\source\repos\MySonarProject\MySonarProject\CSharp.cs
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\Program.cs
+C:\Users\omkar\source\repos\MySonarProject\MySonarProject\Sonar.cs
